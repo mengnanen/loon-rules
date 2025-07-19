@@ -1,0 +1,8 @@
+# Redotpay 分流规则
+DOMAIN-SUFFIX,redotpay.com,Redotpay
+DOMAIN-SUFFIX,redotpay.io,Redotpay
+DOMAIN-SUFFIX,redotpay.app,Redotpay
+DOMAIN-SUFFIX,redotpay.net,Redotpay
+DOMAIN-SUFFIX,redot.network,Redotpay
+DOMAIN-SUFFIX,redot.link,Redotpay
+DOMAIN-KEYWORD,redot,Redotpay
